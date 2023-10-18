@@ -1,0 +1,118 @@
+.a1
+{
+    width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100";
+}
+.a2
+{
+    width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100";
+}
+.a3
+{
+    width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100";
+}
+.a4
+{
+    width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100";
+}
+.a5
+{
+    width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100";
+}
+.a6
+{
+    width: 25rem;
+}
+.a7
+{
+    width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100";
+}
+.toggled {
+    overflow: visible;
+    width: 6.5rem!important;
+}
+.toggled1 {
+    width: 0!important;
+    overflow: hidden;
+}
+ 
+ .sidebar .sidebar-card {
+    margin-top:80px;
+ }
+ .has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+i.fa-calendar {
+    display: inline-block;
+    border-radius: 50px;
+    background-color: #68a2e4;
+    padding: 0.5em 0.6em;
+  
+  }
+  i.fa-dollar-sign {
+    display: inline-block;
+    border-radius: 60px;
+    background-color: #89d0b6;
+    padding: 0.5em 0.6em;
+  
+  }
+  i.fa-clipboard-list {
+    display: inline-block;
+    border-radius: 50px;
+    background-color: #77bac4;
+    padding: 0.5em 0.6em;
+  
+  }
+  i.fa-comments {
+    display: inline-block;
+    border-radius: 50px;
+    background-color: #d3b76f;
+    padding: 0.5em 0.6em;
+   
+  }
+  .card{
+    border:none;
+  }
+  .card-body {
+    padding: 2.25rem;
+}
+.col {
+    margin-left: 20px;
+}
+.card-body1 {
+    flex: 1 1 auto;
+    min-height: 1px;
+}
+.sidebar .sidebar-card {
+    background-color: #446AD8;
+}
+.card1 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #0a44e4;
+    background-clip: border-box;
+    border-radius: 0.35rem;
+}
+.sidecolor{
+    margin-top: 13rem;
+    background-color: #0a44e4;
+}
+.form-control{
+    border:none;
+    padding:none;
+}
